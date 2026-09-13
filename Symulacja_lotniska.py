@@ -47,7 +47,7 @@ ROUTES = [
 ]
 
 #konfiguracja anomalii
-'''
+
 ANOMALIES_CONFIG = [
     ("KRK", 300, 240),
     ("WRO", 300, 240),
@@ -55,7 +55,7 @@ ANOMALIES_CONFIG = [
     ("LUZ", 300, 120),
     ("WAW", 300, 240)
 ]
-'''
+
 
 FLIGHT_LOGS = []
 NOTIFICATIONS = []
